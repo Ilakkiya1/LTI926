@@ -1,1 +1,3 @@
-sample file modified
+sample file1 is created
+
+sample file1 is modified
